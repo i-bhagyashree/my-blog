@@ -23,8 +23,8 @@ email: bhagyashreesoni.soni3@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Documenting my tech journey one lesson at a time. Here I share tutorials, insights, and what I discover while learning and building.
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/my-blog" # the subpath of your site, e.g. /blog
+url: "https://i-bhagyashree.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: i_Bhagyashrees
 github_username:  i-bhagyashree
 
