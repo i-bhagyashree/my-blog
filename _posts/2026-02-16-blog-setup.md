@@ -14,7 +14,7 @@ I created this blog to document my learning journey—to capture the errors I en
 
 While working on a project today, I hit my first hurdle. I tried running my code through the VS Code run bar, but kept getting an error popup about debugging. I realized the issue: I didn't have a debugger installed on my system. 
 
-**The fix:** I switched to the "Run Code" option in VS Code and installed the necessary debugger. Problem solved!
+**The fix:** I switched to the "Run Code" option in VS Code it was throwing an error because of misconfigured json file which i was not able to figure it out so i asked copilot for help it fixed the files for me and installed the necessary debugger & Problem solved!
 
 ## Setting Up Jekyll: The Main Task
 
